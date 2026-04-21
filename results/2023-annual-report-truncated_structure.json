@@ -1,0 +1,95 @@
+{
+  "doc_name": "2023-annual-report-truncated.pdf",
+  "structure": [
+    {
+      "title": "Preface",
+      "node_id": "0000",
+      "start_index": 1,
+      "end_index": 4,
+      "summary": "The partial document is the table of contents from the 110th Annual Report of the Board of Governors of the Federal Reserve System for 2023, prepared as a report to Congress. It outlines the structure and major sections of the report, which include: an overview of the Federal Reserve; monetary policy and economic developments with summaries from March 2024 and June 2023; financial stability covering monitoring of financial vulnerabilities and international cooperation; supervision and regulation of financial institutions; payment systems and Reserve Bank oversight including services, currency management, and financial statements; consumer and community affairs focusing on compliance, regulations, research, and development; and several appendices detailing the Federal Reserve System\u2019s organization, FOMC meeting minutes, audits, budgets, policy actions, litigation activities, and statistical tables."
+    },
+    {
+      "title": "About the Federal Reserve",
+      "node_id": "0001",
+      "start_index": 5,
+      "end_index": 6,
+      "summary": "The partial document provides an overview of the Federal Reserve, explaining that it was established by Congress in 1913 to create a safer, more flexible, and more stable monetary and financial system. It notes that the U.S. was divided into 12 districts, each with its own Reserve Bank. The document also provides links to the Federal Reserve Board\u2019s website and online versions of its annual reports for additional information."
+    },
+    {
+      "title": "Overview",
+      "node_id": "0002",
+      "start_index": 7,
+      "end_index": 9,
+      "summary": "The partial document is an overview section and the beginning of the monetary policy section from the Federal Reserve\u2019s 2023 annual report. It outlines the main functional areas of the Federal Reserve\u2019s operations during the year: conducting monetary policy and monitoring economic developments, promoting financial system stability, supervising and regulating financial institutions, enhancing payment and settlement system safety and efficiency, and promoting consumer protection and community development. It also lists appendices providing details on leadership, meeting minutes, audited financial statements, budget information, policy actions, litigation, and statistical data. The document then transitions into a summary of monetary policy and economic developments for 2023, noting that inflation remained above the 2 percent objective but had eased, unemployment stayed low, GDP growth was strong, and the FOMC maintained a federal funds rate range of 5\u00bc to 5\u00bd percent, indicating the rate was likely at its peak for the tightening cycle that began in early 2022. The section emphasizes the FOMC\u2019s commitment to bringing inflation back to 2 percent and its cautious approach toward potential future adjustments to interest rates."
+    },
+    {
+      "title": "Monetary Policy and Economic Developments",
+      "node_id": "0003",
+      "start_index": 9,
+      "end_index": 9,
+      "summary": "The partial document discusses U.S. monetary policy and economic developments in 2023, focusing on the Federal Reserve\u2019s actions and assessments as presented in the Monetary Policy Reports of March 2024 and June 2023. It highlights that inflation, although still above the 2 percent objective, has eased significantly without a major rise in unemployment. The labor market remains tight, with low unemployment and high job vacancies, while GDP growth has been strong due to robust consumer spending. The Federal Open Market Committee (FOMC) has maintained the federal funds rate at 5\u00bc to 5\u00bd percent since July 2023, viewing it as the likely peak of the current tightening cycle. The Federal Reserve continues reducing its holdings of Treasury and mortgage-backed securities. The document notes that risks to employment and inflation goals are becoming more balanced, but the Committee remains vigilant about inflation risks and is committed to returning inflation to the 2 percent target before considering lowering rates. It also references the statutory requirement for the Federal Reserve to submit semiannual monetary policy reports to Congress.",
+      "nodes": [
+        {
+          "title": "March 2024 Summary",
+          "node_id": "0004",
+          "start_index": 9,
+          "end_index": 14,
+          "summary": "The partial document reviews U.S. monetary policy and economic developments for 2023, summarizing key points from the Federal Reserve\u2019s Monetary Policy Reports of March 2024 and June 2023. It highlights that inflation, though above the 2 percent target, has eased notably without causing significant unemployment increases, while economic growth and consumer spending remain strong. The Federal Open Market Committee (FOMC) has maintained the federal funds rate between 5\u00bc and 5\u00bd percent since July 2023, viewing this as likely the peak of the tightening cycle. The Federal Reserve continues to reduce its holdings of Treasury and mortgage-backed securities to tighten financial conditions. The document discusses inflation trends showing broad-based easing, continued labor market strength with slightly reduced tightness, and steady real GDP growth despite higher interest rates. It also covers financial market conditions, banking system resilience, and international economic developments marked by slower global growth and varied paths of disinflation. Special topics include improved employment outcomes for historically disadvantaged groups, shifts in housing market activity due to high mortgage rates, the evolution of the Federal Reserve\u2019s balance sheet and money markets, and the guidance offered by simple monetary policy rules that now align broadly with the current policy rate range."
+        },
+        {
+          "title": "June 2023 Summary",
+          "node_id": "0005",
+          "start_index": 15,
+          "end_index": 20,
+          "summary": "The partial document is a summary from June 2023 detailing U.S. economic and monetary developments. It highlights that inflation, while moderated from its peak, remains significantly above the Federal Open Market Committee\u2019s 2 percent target and that the labor market continues to be very tight with low unemployment and strong job gains. The report notes modest GDP growth, ongoing monetary policy tightening through interest rate increases and balance sheet reduction, and the Federal Reserve\u2019s commitment to restoring price stability. Key sections cover inflation trends\u2014including core inflation and housing service costs\u2014labor market conditions, slowing business investment, and financial tightening. It discusses the stability and resilience of the banking system following several bank failures, elevated risks in real estate markets, and moderate debt vulnerabilities. International developments include recovery in foreign activity led by China\u2019s reopening and continuing inflation concerns abroad. Monetary policy updates describe the FOMC\u2019s gradual rate hikes, balance sheet reduction, and liquidity support following March banking stress. Special topics address narrowing employment and wage disparities, tightening bank lending standards, Federal Reserve balance sheet adjustments after banking turmoil, and the role of monetary policy rules indicating high rates consistent with current economic conditions."
+        }
+      ]
+    },
+    {
+      "title": "Financial Stability",
+      "node_id": "0006",
+      "start_index": 21,
+      "end_index": 21,
+      "summary": "The partial document focuses on the Federal Reserve\u2019s efforts to maintain financial stability in 2023. It explains how the Federal Reserve monitors risks to the financial system both domestically and internationally, coordinates with other agencies like the Financial Stability Oversight Council, and uses its analyses to guide policy responses, including stress tests and capital buffer decisions. The section highlights three major activities: monitoring financial vulnerabilities, ensuring supervision and regulation of large and complex institutions to manage systemic risks, and engaging in national and international cooperation and coordination. It also notes that these monitoring efforts inform broader policy discussions and research related to economic and financial stability.",
+      "nodes": [
+        {
+          "title": "Monitoring Financial Vulnerabilities",
+          "node_id": "0007",
+          "start_index": 22,
+          "end_index": 28,
+          "summary": "The partial document outlines the Federal Reserve\u2019s monitoring of financial vulnerabilities in 2023, emphasizing its role in assessing and mitigating risks to U.S. financial stability. It describes how financial institutions, households, and businesses are interconnected and how vulnerabilities\u2014unlike unpredictable shocks\u2014can build up over time and weaken the system\u2019s resilience. The Federal Reserve\u2019s framework centers on four key vulnerabilities: asset valuation pressures, borrowing by households and businesses, leverage in the financial sector, and funding risk.  \n\nThe section on asset valuations highlights continued high prices in equities, residential and commercial real estate, and farmland, noting that stretched valuations could pose risks if prices correct sharply. The discussion of household and business borrowing indicates that overall debt levels relative to GDP remained low, though some debt quality deterioration and small increases in delinquency rates were observed.  \n\nLeverage within the financial system remained generally stable, with large banks well capitalized but facing exposure to fair value losses and potential commercial real estate risks. Nonbank financial institutions such as life insurers and hedge funds showed varied but manageable leverage levels, though some risks persisted from riskier asset holdings and opaque activities. Funding risks for banks were contained due to high liquidity buffers, but vulnerabilities were observed in money market funds, bond mutual funds, and stablecoins, the latter posing risks given limited regulatory oversight and their linkages to short-term funding markets.  \n\nThe document also details domestic and international coordination, particularly the Federal Reserve\u2019s role in the Financial Stability Oversight Council (FSOC). In 2023, FSOC\u2019s priorities included risks from nonbank intermediation, Treasury market resilience, climate-related financial exposures, and digital assets. These joint efforts underscore the ongoing coordination between U.S. regulators and international bodies to bolster financial stability and mitigate emerging systemic risks."
+        },
+        {
+          "title": "Domestic and International Cooperation and Coordination",
+          "node_id": "0008",
+          "start_index": 28,
+          "end_index": 30,
+          "summary": "The partial document discusses developments in financial stability during 2023, focusing on asset management trends, stablecoin vulnerabilities, and interagency coordination to address systemic risk. It highlights modest outflows and declines in mutual fund holdings of corporate bonds, orderly management of bond fund redemptions, and continuing concerns about the size and regulatory gaps of stablecoin markets and their potential to amplify financial stress. The document then details domestic and international cooperation led by the Federal Reserve through bodies such as the Financial Stability Oversight Council (FSOC) and the Financial Stability Board (FSB). The FSOC\u2019s 2023 priorities included nonbank financial intermediation, Treasury market resilience, climate-related financial risk, and digital assets. Key activities included monitoring hedge funds and nonbank mortgage servicers, supporting Treasury market surveillance and resilience, advancing climate risk assessment, analyzing developments in crypto-asset markets, and issuing new frameworks and guidance on identifying and managing financial stability risks. The FSOC\u2019s 2023 annual report evaluated market developments, emerging threats, and vulnerabilities in the U.S. financial system. Internationally, the Federal Reserve\u2019s participation in the FSB involved efforts to strengthen global financial stability by addressing structural vulnerabilities, assessing risks from crypto-asset intermediaries, and improving the resilience of nonbank financial intermediation."
+        }
+      ]
+    },
+    {
+      "title": "Supervision and Regulation",
+      "node_id": "0009",
+      "start_index": 31,
+      "end_index": 31,
+      "summary": "The partial document focuses on the Federal Reserve\u2019s supervisory and regulatory roles in maintaining a safe, sound, and efficient financial system that supports U.S. economic stability. It outlines the Federal Reserve\u2019s main activities, including supervising financial institutions to ensure their safety, developing regulatory policies and guidance, reviewing applications from banking organizations, and monitoring banking sector trends through data analysis. The excerpt also references the \u201cSupervision and Regulation Report,\u201d which provides updates on banking sector conditions and is submitted semiannually to Congress. Additionally, it includes an overview of the range of financial entities under Federal Reserve supervision, such as bank holding companies, state member banks, savings and loan holding companies, foreign banking organizations, and specialized financial entities like Edge Act corporations and designated financial market utilities.",
+      "nodes": [
+        {
+          "title": "Supervised and Regulated Institutions",
+          "node_id": "0010",
+          "start_index": 32,
+          "end_index": 35,
+          "summary": "The partial document provides an overview of the Federal Reserve\u2019s supervision and regulation of financial institutions as of year-end 2023. It details the categorization of supervised institutions by size and type, including state member banks, large banking organizations, foreign banking organizations, community banks, and savings and loan holding companies (SLHCs). The section summarizes the number of institutions, their asset sizes, and their roles within the Federal Reserve System.\n\nIt explains the structure and activities of bank holding companies (BHCs) and financial holding companies (FHCs), highlighting their asset distribution and regulatory oversight. The SLHC section outlines the types of firms (primarily depository, broker-dealer, insurance, and commercial entities) and their supervision framework, particularly emphasizing new supervisory approaches for insurance-oriented holding companies introduced in 2022 and implemented in 2023.\n\nThe document also discusses financial market utilities (FMUs), their systemic importance under the Dodd-Frank Act, the Federal Reserve\u2019s responsibilities in overseeing FMUs, and the risk-management and reporting standards set out in Regulation HH. It then covers international activities, including U.S. banks\u2019 foreign branches, Edge Act corporations, and U.S. operations of foreign banks, along with related examination statistics.\n\nSupervisory developments in 2023 are reviewed, describing the Federal Reserve\u2019s risk-based supervision methods, examination activities, and focus areas such as compliance, operational resilience, and technology risk. The document concludes with a case study on the failure of Silicon Valley Bank (SVB) and the Federal Reserve\u2019s response, including findings from an internal review and subsequent actions to strengthen supervisory speed, intensity, and adaptability across the banking sector."
+        },
+        {
+          "title": "Supervisory Developments",
+          "node_id": "0011",
+          "start_index": 35,
+          "end_index": 50,
+          "summary": "The partial document is from the Federal Reserve\u2019s 2023 Annual Report, specifically covering supervision and regulation activities. It outlines the Federal Reserve\u2019s examinations and inspections of banks and holding companies, emphasizing risk management, governance, compliance, and consumer protection. Key sections discuss supervisory and regulatory initiatives, including the response to the failures of Silicon Valley Bank and Signature Bank, the stress testing and capital planning framework, and specialized examinations in areas like fiduciary activities, cybersecurity, and government securities. It details guidance on third-party risk management and operational resilience and describes new programs addressing novel activities such as crypto-assets and distributed ledger technology. The document also covers climate-related financial risk management and scenario analysis, enforcement actions and penalties, appeals of supervisory determinations, and assessments for supervision costs. Additional sections highlight training and technical assistance provided domestically and internationally, support for minority-owned depository institutions, and international engagements with organizations such as the Financial Stability Board, Basel Committee on Banking Supervision, CPMI, and IAIS. It concludes with reviews of large syndicated loans under the Shared National Credit program and oversight of compliance with the Bank Secrecy Act, anti-money-laundering laws, sanctions, and counter-terrorism financing coordination."
+        }
+      ]
+    }
+  ]
+}

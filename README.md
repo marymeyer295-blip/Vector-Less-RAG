@@ -163,6 +163,14 @@ OPENAI_API_KEY=your_openai_key_here
 python3 run_pageindex.py --pdf_path /path/to/your/document.pdf
 ```
 
+### (Optional) Simple local chat UI
+
+This repo also includes a minimal Streamlit UI that loads a generated `*_structure.json` and lets you chat over it (and optionally fetch PDF page text).
+
+```bash
+streamlit run streamlit_app.py
+```
+
 <details>
 <summary>Optional parameters</summary>
 <br>

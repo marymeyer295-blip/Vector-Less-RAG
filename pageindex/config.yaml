@@ -1,6 +1,11 @@
-model: "gpt-4o-2024-11-20"
-# model: "anthropic/claude-sonnet-4-6"
-retrieve_model: "gpt-5.4"  # defaults to `model` if not set
+model: "azure/gpt-5-model"
+# For Azure OpenAI:
+# Set AZURE_API_KEY and AZURE_API_BASE in .env
+# model should be prefixed with "azure/"
+# Example: model: "azure/gpt-5-model"
+
+# openai-agents  # optional: required for examples/agentic_vectorless_rag_demo.py
+retrieve_model: "azure/gpt-5-model"  # defaults to `model` if not set
 toc_check_page_num: 20
 max_page_num_each_node: 10
 max_token_num_each_node: 20000
